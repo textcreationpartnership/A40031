@@ -206,7 +206,9 @@ in the same sort divide the other lines which are equall to A C, namely D F, A B
                   </p>
                   <p>Then taking A D, or C F, or B E, for a Radius, set on again the Sines of the six equall houres from B and C, at <hi>f g h i k,</hi> and as many as shall be needfull on the other side, at <hi>q r s:</hi> and draw the parallel lines <hi>f f, g g, &amp;c.</hi> and <hi>q q, r r, &amp;c.</hi>
                   </p>
-                  <figure/>
+                  <p>These lines thus crossing one another will make small Pa<g ref="char:EOLhyphen"/>rallelograms, which will shew both where the Ellipsis is to be drawn, and where to be divided. For,
+<figure/>
+                  </p>
                   <p n="3">3. First, If a curved line be begun at D or 12, and car<g ref="char:EOLhyphen"/>ried both wayes diagonally through the succeeding Paral<g ref="char:EOLhyphen"/>lelograms, the same line shall be the Ellipsis required. Thus you see it carried from D to 11, from 11 to 10, from 10
 <pb n="3" facs="tcp:57111:5"/>
 to 9, and so through the successive opposite angles of the following Parallelograms, at 8, 7, 6, 5, 4, 3. And on the other side in the same manner, from D, diagonally through 1, 2, 3, 4, 5, 6, 7, 8, 9. This line thus regularly described without angles, and extravagant inordinate flexures, is the Ellipsis here intended.</p>
@@ -3487,7 +3489,10 @@ unlesse the plain do justly represent the Horizon of some known place, whose Amp
                   <p>Then having computed these two Tables, you may (by help of them) both draw and divide the Ellipsis into its true houres and quarters by these following directions.</p>
                   <p>First, draw the two lines 6 6 and D E, crossing each other at right angles in A, and let A D be the Meridian, and 6 A 6 the two six a clock lines.</p>
                   <p>Then upon A as a center describe the Circle 6 D 6 of any convenient bignesse; and upon the same Circle from D (on both sides of it) set on the houres and their quarters, as 11 and 1, 10 and 2, &amp;c. by help of the degrees and minutes of the angles set to every houre in the former Table. And through every of these points inscribed into the Circle, draw lines from the center A, as A 11, A 10, A 1, A 2, with the rest of the houres and their quarters if you will.</p>
-                  <figure/>
+                  <p>Thirdly, supposing A 6 to be the Radius, you may divide
+<pb n="31" facs="tcp:57111:19"/>
+                     <figure/>
+it into 90 Sines; the beginning or largest parts whereof must be at A, but the numeration must be the contrary way, be<g ref="char:EOLhyphen"/>ginning at 6 and ending at A in 90. Or you may take the complements of the former Altitudes in the Table, and take them out of a line of Sines numbered the right way, which will be best for the Sector, or such Instruments which will best perform this work without any great trouble.</p>
                   <p>Fourthly, looke in the second Table for the altitudes of the Equinoctiall at every houre. Then count those Altitudes in the line of Sines, and take with your Compasses the se<g ref="char:EOLhyphen"/>veral distances of them from A, &amp; transfer the said distances
 <pb n="32" facs="tcp:57111:20"/>
 from the center A to every houre respectively, so shall those intersections give you the points through which the Ellipsis must be drawn.</p>
@@ -3541,7 +3546,10 @@ wayes that the Sun may come at it, and it must then have two Indexes. Both wayes
                   <div type="part">
                      <head>There remains yet one structure more, by which it is fitted for some uses that follow after, and is made a portable Instrument, not at all to be used in observation.</head>
                      <p n="1">1. MAke a right angled Parallelogram, as A B C D, whose length may be about three times the breadth: and let the limbe (upon which the graduations stand) be high<g ref="char:EOLhyphen"/>er then the Plain or Area of it.</p>
-                     <figure/>
+                     <p>
+                        <pb n="39" facs="tcp:57111:23"/>
+                        <figure/>
+                     </p>
                      <p n="2">2. Describe a Semiellipsis to your own Latitude, whose longest Radius let be M O, a little longer than A B, that when the center M is left out and cut off, so much as M N comes to (which may be about halfe a quarter of an houre from 12 in the Ellipsis) the remaining breadth N O, or E F, or G H, may be just fit to A B the breadth of the hol<g ref="char:EOLhyphen"/>low Area, in which this lesser rectangled Parallelogram E F G H may be moved to and fro as there shall be occasion. And let the thicknesse or depth of this moving plate be the
 <pb n="40" facs="tcp:57111:24"/>
 same with the thicknesse of the limbe of the lower plate. The division of the Ellipsis may be made according to the rules before given.</p>
@@ -4014,7 +4022,11 @@ the intermediate degrees may be equally divided. The numera<g ref="char:EOLhyphe
                      </gap>ly
 <pb n="49" facs="tcp:57111:28"/>
 M O here equall to M O in the former, and M N must in both be justly equall, that it may both slip in the former cavity, so as just to fill it, and that the same limbs, centers, and threeds, may in both agree.</p>
-                  <figure/>
+                  <p>But then a lesser Ellipsi<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> must be here described and so the length G E or F H will be diminished.
+<figure/>
+                  </p>
                   <p>A lesser Ellipsis (I say) must be described, which though it be lesse, yet it must be like and propor<g ref="char:EOLhyphen"/>tionall to the former.</p>
                   <p>Therefore assuming any length as M P, for the longer Radius, you must (to that Radius) make M R and M S equall<gap reason="illegible: indecipherable" extent="1 letter">
                         <desc>•</desc>
@@ -4050,7 +4062,10 @@ greatest parts beginning at the center, but numbered the contrary way.) This lin
                         <seg rend="decorInit">T</seg>HE reason is principally deduced from the Sphere it self: and secondly, from the <hi>Or<g ref="char:EOLhyphen"/>thographicall</hi> Projection of the Sphere up<g ref="char:EOLhyphen"/>on the plain of the Horizon; which as it doth represent the Sphere it selfe, so it doth perform the same conclusions with the like certainty that the Sphere doth; and that upon this generall ground, that looke what Circles, and in what parts they cut each other upon the former, the same Circles and the same parts of those Circles do upon this latter cut each other in the same manner. I shall here take for granted, that the Projecture is (for truth) in all respects answerable to the Sphere it selfe, which is abundantly made good by those that have treated upon this subject. Then from th<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>s Pro<g ref="char:EOLhyphen"/>jection I shall shew how the Ellipticall Diall upon the Hori<g ref="char:EOLhyphen"/>zon must be of the same truth with it. And therefore these things following must be considered, as so many Lemmaes to prove what is here required.</p>
-                     <figure/>
+                     <p>
+                        <pb n="54" facs="tcp:57111:31"/>
+                        <figure/>
+                     </p>
                      <p>Note, that in no form of Projection besides the Or<g ref="char:EOLhyphen"/>thographicall, this kinde of Diall can be true; that is, that no figure but an Ellipsis will do it, nor yet all Ellipses, or Ellipses divided into all <gap reason="illegible" resp="#PDCC" extent="1 word">
                            <desc>〈◊〉</desc>
                         </gap>, as in some Projections the<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -4197,7 +4212,11 @@ before was taken to the greater Radius, of the Ellipsis, and so this Co-tangent 
                   <p>
                      <seg rend="decorInit">T</seg>His may be done artificially by calculation, or by a lineary way, but not without too much trouble and incumberance, which would deter any man quite from putting it in practise. I shall therefore let that way alone, and fall upon another more feasible and delightfull.</p>
                   <p>The way that I intend, is partly by projection of such lines as are usefull, and partly by inscription of such points as the Ellipticall line is to passe through, as shall be seen hereafter. And therefere we shall not need to looke after any position of the plain in respect of declination or leaning.</p>
-                  <figure/>
+                  <p>But first in generall note thus much; that the Ellipticall Diall cannot possibly be drawn upon any plain that lies pa<g ref="char:EOLhyphen"/>rallel to the Index. And consequently to these upright In<g ref="char:EOLhyphen"/>dexes there can no such Diall be made upon any upright plain. And therefore again to such an Index, it is requisite that the plain make some kinde of angle in respect of
+<pb n="70" facs="tcp:57111:40"/>
+                     <figure/>
+                     <pb n="71" facs="tcp:57111:40"/>
+Reclination or Inclination from the Zenith line towards the Horizon, which position (notwithstanding) we shall have nothing to do withall in this way of working.</p>
                   <div type="part">
                      <head>2. The manner of the work.</head>
                      <p n="1">1. LEt the plain be A B C, and the upright Index A D. First then, assume any point in the Index as at E, and from thence (by the projecting Quadrant, or some Levell) cast an Horizontall levell line as F G upon the plain; or if it cannot be cast upon the plain it selfe, set any board (for a time) that may receive it; lying in the same Levell with the assigned point at E. And further, the same Horizontall line must be continued and returned about the point E, by help of threeds stretched out from some points or other of the Horizontall line before drawn, as from F or G, unto two supporters set up (for a while) for this purpose (either upon the plain or otherwise neer to it) as is to be seen at H and I: so that now the points H F G I are all in one and the same Horizontall levell to one another, and likewise to the first point of the Index assumed at E.</p>
@@ -4218,7 +4237,10 @@ line of the plain F G, and to the assumed centerat <gap reason="illegible" resp=
                      <p n="6">6. Apply the Pastboard to its former position upon the plain, and from the center E project the houres from the Pastboard to the Horizontall line and threeds. And then taking away your Pastboard, you may draw lines from A to such points as are in the Horizontall line i<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap> selfe, as A o, A <hi>p,</hi> A <hi>q,</hi> A κ, A <hi>s,</hi> A <hi>t,</hi> A <hi>u.</hi> And for the others that stand not upon the Horizontall line of the plain, but upon the threeds which are separate from the plain (such as are ε ρ π) you may project them by the Index A D, reposing the same upon the said points (ε ρ π) of the threed; and marking where the shadow or appearance of the threed traceth the plain, there draw the lines A <hi>m,</hi> A <hi>n,</hi> A <hi>u.</hi> And so all the lines (that the plain is capable of) may be drawn. And it is to be noted, that these lines so drawn are not such houre lines as usually are upon other Dials, but they are those Azimuth lines in which the Sun is at every houre of the Equinoctiall Circle. So the houres and quarters may be put in by the Table, <hi>Pag.</hi> 29, and the Column of Angles in the same Table.</p>
-                     <figure/>
+                     <p>
+                        <pb n="73" facs="tcp:57111:41"/>
+                        <figure/>
+                     </p>
                      <p n="7">7. Looke again into the Table <hi>Pag.</hi> 29, for the Column of Altitudes; for by that must the Ellipsis it selfe be desc<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>ibed, for the former Azimuthall-ho<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -4300,8 +4322,11 @@ The motion of dials unequall Superficies must be in or pa<g ref="char:EOLhyphen"
                         <p>And first for the re / in-clination, it is best to be taken by some inclinatory (square or other) Instrument. The manner of the work is the very same that is performed
 <pb n="81" facs="tcp:57111:45"/>
 in finding the re / in-clination of a plain: because the fiduciall edge of the Index is (here) like the Verticall line of a re / in-clining plain, and the application of the Square must here be the same to this edge that was there to the verticall line of the plain, and the degrees of re / in-clination are to be numbered in both these cases alike. So that it will not be needfull here to make repetition of that which is so often elswhere decla<g ref="char:EOLhyphen"/>red. You are here also to observe whether the re / in-clination be towards the North or towards the South.</p>
-                        <figure/>
-                        <figure/>
+                        <p>Then for the declination do thus.<figure/> Suppose the Index to be A B. From the end of it that is furthest from the plain, as B, let fall or raise the per<g ref="char:EOLhyphen"/>pendicular B C, and let B C be some materiall object unto which the side of a Quadrant may be applyed. Or if they should be threeds (and so too
+<figure/>
+weake for such a purpose) you may extend another threed, as is D E, which may touch the two former threeds A B and C D, and so lie in the same plain with them, and then
+<pb n="82" facs="tcp:57111:46"/>
+to this threed D E apply some upright plain or materiall ob<g ref="char:EOLhyphen"/>ject which may serve the intended work.</p>
                         <p>To this new plain therefore, or to the two lines A B, C D, apply one of the streight edges of a Quadrant, the limbe of it being turned alwayes towards the Sun, and observe the Horizontall distance of the Sun, as is usually done in finding the declinations of plains. Only here take this cau<g ref="char:EOLhyphen"/>tion, that you count not this Horizontall distance from that side of the Quadrant which is perpendicular to the plain, but from that side which lies in the line E D, or upon the two lines A B, B C. And further, you are alwayes to account this Horizontall distance from that end of the Quadrants side which lookes the same way that the point B (of the In<g ref="char:EOLhyphen"/>dex, which is furthest remote from the plain A C) doth look: as in the second figure is exprest, where the Horizontall di<g ref="char:EOLhyphen"/>stance is more than a Quadrant, it being there to be accounted from F to H. Or for more easie conceit, you may alwayes suppose your Quadrant in that posture to be continued to a Semicircle, as is done in the second figure: and then count your Horizontall distance from that term of the Semicircles Diameter which respecteth the same coast of the heavens with that point of the Index which is most remote from the plain, which is B; that is, you must count it from F, and so the Horizontall distance will be F G H, more than a Qua<g ref="char:EOLhyphen"/>drant, in this particular case.</p>
                         <p>The Horizontall distance being thus accounted and ob<g ref="char:EOLhyphen"/>served, you are immediately to take the Suns Altitude and to finde the Azimuth. Then for the declination of the Index, that is to know into what coast of the world, that is into what Azimuth of the Heavens (it being continued from the plain at A infinitely forwards toward B) it would point into: I say to finde this, you have only the same work to do
 <pb n="83" facs="tcp:57111:46"/>
@@ -4311,7 +4336,10 @@ which is usually done in finding the declinations of plains, the same work witho
                      </div>
                      <div type="part">
                         <head>2. By having the Re / In-clination and Declination of any right line, to finde the Longitude and Latitude thereof.</head>
-                        <figure/>
+                        <p>THis shall not here be much spoken of: for we may suppose the In<g ref="char:EOLhyphen"/>dex A B in the first Fi<g ref="char:EOLhyphen"/>gure, to point up to O in this Projectio<g ref="char:cmbAbbrStroke">̄</g> (where<g ref="char:EOLhyphen"/>in the Horizon is N E W S, the Zenith Z, the North Pole P) and that the reclination Z O, with
+<figure/>
+                           <pb n="84" facs="tcp:57111:47"/>
+the Declination O Z S, or O Z P be known, together with Z P the complement of the Latitude of your place, so it shall be easie thereby to finde the side O P, whose Complement is the North Latitude, or whose excesse is the South Lati<g ref="char:EOLhyphen"/>tude required: and the angle at P will be found also, which is the difference of Longitude sought for.</p>
                         <p>Now in the second case before given where the Index points downwards, or under the Horizon, where the plain is inclining, and so looking downward, we may shape the Projection a little otherwise, and the work then will be as easie as the former. Let <hi>n</hi> E S W be the Hori<g ref="char:EOLhyphen"/>zon, <hi>n</hi> the North, S the South, P the South Pole N the Nadir point op<g ref="char:EOLhyphen"/>posite to the Zenith, O the point or place to which the Index respect<g ref="char:EOLhyphen"/>eth. In the Triangle N P O, are given, N P the complement of the Lati<g ref="char:EOLhyphen"/>tude of the place, N O the inclination of the In<g ref="char:EOLhyphen"/>dex; and P N O the de<g ref="char:EOLhyphen"/>clination of the same In<g ref="char:EOLhyphen"/>dex, by which we may finde P O, whose complement is the South Latitude, or whose excesse is the North Latitude required: and the angle at P will be found, which is the difference of Longitude here sought after.</p>
                         <figure/>
                         <p>The work is easie to them that understand the like work in re / in-clining plains, and may be performed either by calcula<g ref="char:EOLhyphen"/>tion, or else Instrumentally, as every one shall like best
@@ -4344,7 +4372,12 @@ which shall represent the Pole of the World. And then further, if from the foot 
                         <p>THis way will not prove (perhaps) so good as I expected, especially in the Longitude, and therefore the former may be used.</p>
                         <p>The former way that I used was troublesome enough for effecting of what was by it intended, which is the cause that I shall here endeavour to give another more easie.</p>
                         <p>Let the Diall superficies be supposed to have upon it an Index, an Axis truly placed, issuing from the foot of the Index, with a Meridian line projected also to, or directly under the same Axis, according as was done in the work of the preceding Proposition.</p>
-                        <figure/>
+                        <p>First then, for the Latitude of the Index, it is but enqui<g ref="char:EOLhyphen"/>ring what angle is contained between the Axis and the In<g ref="char:EOLhyphen"/>dex, and the thing is resolved. Now to do this, for the manner of it, we may suppose A B to be the Index, and A X to be the Axis. Opening therefore your Compasses to any extent, set one foot of it at A, and suppose the other to reach up to <hi>m</hi> upon the Axis, at which point <hi>m</hi> fasten some knot of threed, which may first be put on, and then slipped to the point of the Compasses at <hi>m.</hi> So again, set
+<pb n="87" facs="tcp:57111:48"/>
+                           <figure/>
+on the same extent from A to <hi>n</hi> upon the Index. and at <hi>n</hi> fasten another knot of threed. Then also to the same ex<g ref="char:EOLhyphen"/>tent open the Radius of a line of Chords. When this is done, take the distance between the two knots <hi>m</hi> and <hi>n,</hi> and measuring it upon the same line of Chords, you shall finde what angle is contained between X A and A B. If A X therefore point from A towards the North Pole, and that X A B be lesse than a Quadrant, then doth the complement of that angle X A B give the North Latitude whereinto the Index pointeth: but if X A B be more than a Quadrant,
+<pb n="88" facs="tcp:57111:49"/>
+then doth the excesse give that South Latitude whereinto the Index pointeth. And so contrarily, if A X had pointed from A towards the South Pole, then the angle X A B being lesse than a Quadrant would give the quantity of South La<g ref="char:EOLhyphen"/>titude: but if X A B had been greater than a Quadrant, then the excesse would give the North Latitude into which the Index tendeth.</p>
                         <p>All the difficulty in this work is, that there is no stable place whereon to fix the Compasses for measuring of the distance between the two knots <hi>m</hi> and <hi>n:</hi> but you may hold somthing underneath close to one of the points (with<g ref="char:EOLhyphen"/>out disturbing the threeds place) on which setting one foot of your Compasses, you may measure the distance of the other point. Or else, because it is supposed that the threed Axis A X is fixed upon some solid thing at X, you may open your Compasses to the Radius A X (to which also you are to have a Radius of Chords equall) and set the same ex<g ref="char:EOLhyphen"/>tent from A to R upon the Index (prolonging the Index if need be by a threed till it come to be of a competent length) and there fasten a slipping knot. Then because X is a stable point, you may take the extent from X (setting one foot of your Compasses in that point) to R, and measure the same upon your Scale of Chords, where it will give the former angle X A R, which is to be used as is shewed before.</p>
                         <p>There will be found other wayes to do this last work. So much therefore for the Latitude.</p>
                         <p>Secondly, For the Longitude of the Index, it will not be so easily had as the other was. The way that best likes me (amongst many others) for the present, is this. By the <hi>Precepts, Pag.</hi> 70. you must make some observation of the Sun's Azimuth (and so must you also do by the last prece<g ref="char:EOLhyphen"/>dent <hi>Proposition</hi>) and you finde what Azimuth that is too.
@@ -5518,7 +5551,10 @@ belonging to <hi>s t v, &amp;c.</hi> And so again, the Sines of <hi>w x y, &amp;
                         <p>By these two Tables the work will be done in such man<g ref="char:EOLhyphen"/>ner as was shewed before, <hi>Prop.</hi> 2. The manner of the work is this.</p>
                         <p n="1">1. You are to assume some point in your Index A B, let the point be C, where you may fasten some knot of threed that it may not be lost again.</p>
                         <p n="2">2. From this point you must draw an Horizontall line, not in the levell of your own Horizon, but in that Horizon which is proper to that Index or Zenith line A B: that is, it must lie perpendicular to A B, making right angles (in e<g ref="char:EOLhyphen"/>very part of it) to that line, and must have respect (in this perpendicularity) to the point C. The meaning is, you must imagine a plain to passe through the point C, and the same plain to be perpendicular to the line A B; or that the line A B is a perpendicular surgent line to the said plain passing through the point at C.</p>
-                        <figure/>
+                        <p>Now this work will be somewhat hard to perform if A B
+<pb n="100" facs="tcp:57111:55"/>
+                           <figure/>
+be a threed only, and not of some more stur<g ref="char:EOLhyphen"/>dy substance. Yet the best of it is, that there is no very great pre<g ref="char:EOLhyphen"/>cisenesse here required, for the work to be done will be good though this Horizon<g ref="char:EOLhyphen"/>tall plain be not placed so exactly perpendicu<g ref="char:EOLhyphen"/>lar.</p>
                         <p>[And so it may be noted, that if other Dials be described by the Equinoctiall Circle and not by the Horizon<g ref="char:EOLhyphen"/>tall, the work of drawing the Equinoctiall perpen<g ref="char:EOLhyphen"/>dicular to the Axis will be difficult, but though no great accuratenesse be used, yet the work will be per<g ref="char:EOLhyphen"/>fect enough, and no way defective for the losse of a degree or two in the perpendicularity required, which I thought good here also to note, because I have omitted it in all my other Precepts of Projecting Dials.]</p>
                         <p>Wherefore you may do it by some Pastboard, applying one edge of it to any line projected from A B the Index, as to A D, and keeping the edge there, you may turn the flat of it to the Index A B, and draw a line by it, or make two pricks through it into the pastboard, whereby a line may be drawn, but above all note the point C upon it. Then to this line of the Index thus drawn, and from the noted point of it at C, erect a perpendicular: So applying your Pastboard
 <pb n="101" facs="tcp:57111:55"/>
@@ -5936,7 +5972,10 @@ this case of wrying the Index from the plains proper Meridi<g ref="char:EOLhyphe
                         <p>As the Radius, To the Secant of the Poles elevation above the plain;</p>
                         <p>So let AF be supposed to be, To AB.</p>
                         <p>So that if the Index were pointing directly to the Meri<g ref="char:EOLhyphen"/>dian point (in the Equinoctiall) which is proper to the plain, then the businesse was at an end; for A B must be the length of the Zodiac, and standing square to R A S. But now we here suppose the Index to be wryed from that point, as much as the arke C L comes to; which turning aside will both lengthen the Zodiac again, and turn it out of its per<g ref="char:EOLhyphen"/>pendicular standing to R A S. Which thing is thus to be effected. To A F as a Radius, finde the Tangent of the Poles elevation above the plain; suppose that Tangent were G H. Then say, As the Radius, to the Tangent of C L the quantity of wrying, so G H to X Z. Make B K equall to X <hi>Z,</hi> and parallel to A R, and draw A K, so shall A K be the length, and shall also give (in this position) the situation of the Zodiac. The manner how to divide it need not be repeated, because it hath been often set down heretofore, You must only remember to place this line upon that Coast of A B which is contrary to the Coast of the Indexes devi<g ref="char:EOLhyphen"/>ation or wrying from the proper Meridian point of the plain: this work may either be protracted, or calculated, or wrought Instrumentally, as shall best be liked of.</p>
-                        <figure/>
+                        <p>
+                           <pb n="147" facs="tcp:57111:78"/>
+                           <figure/>
+                        </p>
                         <p>Another way I will here adde to do the same work, which may perhaps be not inferior to the former. Let all things preparatorie in the former Figure, be here again repeated, R A the Radius, and A F the Tangent of 23 degrees and a halfe to that Radius: then to A F as Radius, finde the Sine and Co-sine of the Poles elevation above the plain: let F P be the Sine, and A P the Co-sine. Make A <hi>m</hi> equall to A P; and from <hi>m</hi> draw the line <hi>m n,</hi> making the angle <hi>n m</hi> C e<g ref="char:EOLhyphen"/>quall to the angle B A C <hi>Pag.</hi> 142, and standing on the contrary Coast, which is the angle of the declination of the Index from A C in this Figure, the proper Meridian of the plain.</p>
                         <p>
                            <pb n="148" facs="tcp:57111:79"/>Then say, As the Radius, is to the Tangent of the Recli<g ref="char:EOLhyphen"/>nation of the Index (which is the Complement of D A C (<hi>Pag.</hi> 142) the elevation of the Index above the plain,) So is the Sine F P to a fourth quantity, suppose the same to be D G: make <hi>m n</hi> equall to D G, and draw the streight line A <hi>
@@ -6009,7 +6048,12 @@ cases be one and the same line, namely that which is made by the projection of t
                      <p>
                         <pb n="153" facs="tcp:57111:83"/>The first makes A F equall to the Tangent of 23½ to the Radius R A, to be Radius, and to that Radius findes F H, and to that again as Radius, finde H Z the Tangent of wry<g ref="char:EOLhyphen"/>ing. And so A Z is the Semizodiac placed and enlarged.</p>
                      <figure/>
-                     <figure/>
+                     <p>The second makes A F as a Radius, and to it findes F P the Sine, and A P the Co<g ref="char:EOLhyphen"/>sine of the Axis his elevati<g ref="char:EOLhyphen"/>on above the plain. And then this line F P being perpen<g ref="char:EOLhyphen"/>dicular to the plain, it stands as the proper Zenith line of the plain. And because we are to cast all according to
+<figure/>
+                        <pb n="154" facs="tcp:57111:84"/>
+the lying of the Index, therefore what reclination from the plains proper Zenith, and declination from the plains proper Meridian the Index hath, the same must the projection (or projecture) of the line F P have. That is, we may suppose the Index, or a line paral<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>el to the Index (in his true posture) to passe through the point F, and then we are to inquire where it will strike through the plain. That is to say, it must looke into the same Coast that the Index doth, and so the angle Z P Q being made equall to the declination of the In<g ref="char:EOLhyphen"/>dex from A Q the proper Meridian line, and the line P Z drawn, it is certain enough that the projecture of the point F must be upon the line P Z. And to know where, because F P Z is a right angle, and the side F P is known, with the angle I F M (equall to the reclination of the Index from the plains Zenith line F M) or P F Z; Therefore,</p>
                      <p>As F P Radius, To P Z the Tangent of the angle P F Z;</p>
                      <p>So is F P in the former known length (found to A F Tan<g ref="char:EOLhyphen"/>gent of 23½ <hi>gr.</hi>) To P Z.</p>
                      <p>Therefore Z is the point terminating the extremity of the projected Zodiac, and so A Z must be the Semizodiac, ac<g ref="char:EOLhyphen"/>cording to what was delivered in the second way <hi>Pag.</hi> 147.</p>
@@ -6056,8 +6100,21 @@ here be added, which conduceth to this <hi>Rectilineal Horologi<g ref="char:EOLh
                         <p>THis is usefull for the laying of an Index to any conditi<g ref="char:EOLhyphen"/>on that shall be required: namely, so as to cut through any just houre, either in the Equinoctiall Circle, or any o<g ref="char:EOLhyphen"/>ther Circle in the heavens.</p>
                         <p>The first work must be to finde what Reclination and De<g ref="char:EOLhyphen"/>clination the said point shall have in respect of our own Ze<g ref="char:EOLhyphen"/>nith and Meridian. This is an easie Sphericall work, and therefore I shall omit it. Only note, that the Reclination here mentioned is the distance of it from our Zenith; and the declination is, what Azimuth from the Meridian the said point fals into.</p>
                         <p>The next work is, how to lay or stretch a line to any given Declination and Reclination. The way that for the pre<g ref="char:EOLhyphen"/>sent I think on shall be this.</p>
-                        <figure/>
-                        <figure/>
+                        <p>First, Assigne any point from which you will have that your line shall rise, as at A, then by a perpendicular threed c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>st a shadow through A, as C A, and draw therethrough an obscure line: and having before drawn an horizontall line through A, as is B A; apply some plain board or past-board to that line B A, and upon it project with your eye the Verticall C A by your perpendicular threed (you need
+<pb n="159" facs="tcp:57111:86"/>
+                           <figure/>
+not be over curious i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> holding your pastboard level.)</p>
+                        <p>Afterwards, knowing what Azimuth this is (which you may finde by taking the Suns altitude just when the shadow C A was drawn) you may upon your pastboard set off (from it) your Azimuth of the lines declination, suppose it to be A E. Then again applying your pastboard to his former true position, with your perpendicular threed, you may transfer (or project) A E from the pastboard to the plain: suppose one point of that transferred Azimuth were at F, then draw the line A F, which is the section of that Azimuth (with the plain) in which Azimuth the Index or streight line must lie,
+<gap reason="missing" extent="2 pages">
+                              <desc>〈2 pages missing〉</desc>
+                           </gap>
+                           <pb n="162" facs="tcp:57111:87"/>
+                           <figure/>
+10 at C, divide your Circle into 24 equall parts, at 11, 12 1, 2, 3, &amp;c, so shall the houres of 4 and 4 fall upon the just perpendicular Diameter D E.</p>
                      </div>
                      <div type="part">
                         <pb n="163" facs="tcp:57111:87"/>
@@ -6171,7 +6228,10 @@ there will need no more words concerning it.</p>
                      <p n="1">1. You must know the situation of your plain, that is, what Declination and Reclination it hath in respect of your own Horizon. This is to be done the ordinary way, as in all plains is usuall.</p>
                      <p n="2">2. You must know the Declination and Reclination of your Index. That is, if the Index be set casually you must then finde out the Declination and Reclination thereof, which is shewed, <hi>Pag.</hi> 80. how it must be done, namely, by observation from the Sun, and cannot be otherwise perfor<g ref="char:EOLhyphen"/>med. Or if you choose a Longitude and Latitude wherein to lay your Index, then must you (by that Longitude and Latitude given) finde what Declination and Reclination is due thereunto, in respect of your own Horizon: and accor<g ref="char:EOLhyphen"/>ding to this Declination and Reclination you are to lay your Index. See the Schemes <hi>Pag.</hi> 83, 84, for by those or the like you are to conceive of your Sphericall work in this kinde.</p>
                      <p n="3">3. Having thus found the situation both of plain and In<g ref="char:EOLhyphen"/>dex, in respect of your own Horizon, you must then finde what situation the Index hath in respect of the plain; that is, what Declination it hath from the proper Meridian of the plain, and what Reclination it hath from the Plains Zenith. This Proposition hath not been handled before, but must be put here in this place.</p>
-                     <figure/>
+                     <p>Let your own Horizon be N W S E, the Zenith Z, the Pole P, and let A V E be a declining reclining plain, whose Declination and Reclination we now suppose to be known
+<pb n="173" facs="tcp:57111:92"/>
+                        <figure/>
+by former rules; that is the angle S Z D (equall to the Declination) is known, and Z V or D T (equall to the Reclination) is known. So that in the Triangle P Z T, there is P Z (equal to the complement of P N, the Poles altitude,) Z T (equal to the complement of Z V the Reclination,) &amp; P Z T (equall to the com<g ref="char:EOLhyphen"/>plement of S Z T, the plains Declination from the South:) therefore you may now finde the three unknown quantities; namely, P T the com<g ref="char:EOLhyphen"/>plement of the Poles elevation above the plain: and Z P T, the distance of the plains Meridian from yours, which is the plains difference of Longitude: and lastly, Z T P the di<g ref="char:EOLhyphen"/>stance of P T the plains proper Meridian from V Z T the Verticall line of the plain. Or which three soever you have, you may finde the other three. As having the difference of the plains Longitude, the angle P, with the plains Lati<g ref="char:EOLhyphen"/>tude the complement of P T: and <hi>P Z</hi> the complement of your own Latitude. You may finde all the rest. And by that means you may set a plain to any Latitude and difference of Longitude, that is answering to the Horizon of any known place in the world.</p>
                      <p>The next work is to finde what situation an Index (set up upon the plain) shall have to the plain, and the fundamental lines thereon described, <hi>viz.</hi> the Verticall line, and proper Meridian.</p>
                      <p>I suppose first, that the Declination and Reclination of
 <pb n="174" facs="tcp:57111:93"/>
@@ -6246,7 +6306,10 @@ proper point of 12 from the primary Ellipsis, and conse<g ref="char:EOLhyphen"/>
                         </gap> C, &amp;c. parallel lines through the houre points in the primary Ellipsis, parallel I say to the Subindicall line R S.</p>
                      <p>P Q the two proper fixes, through which alwayes the distorted Ellipsis must passe.</p>
                      <p>Then because the Index leaneth from the upright Index (or Zenith line of the plain) towards S, therefore the proper 12 at O must go towards S, <hi>viz.</hi> to A: and therefore also 9 B, 8 C, &amp;c. 11 G, &amp;c. must go the same way till you come to the two proper sixes at P and Q, and then the houre points D E F must be set from 3 2 1, the contrary way to that wherein the first houres were placed; as you may plainly see the form of the new Ellipsis will require. For it cannot possibly be made to turn again from P towards M, if it must make up an Ellipsis, as in this case it is necessa<g ref="char:EOLhyphen"/>ry it should do.</p>
-                     <figure/>
+                     <p>Now all the Tangents before found (§ 5) are the lines
+<pb n="181" facs="tcp:57111:97"/>
+                        <figure/>
+10 H, 9 B, 8 C, 11 G, &amp;c. each set off from his proper houre point at O, A, B, C, and taken to its true Radius, namely, the Radius P R or R Q. But if you work by the Sector (as is taught in the 5 §) the very lengths there found shall be the quantities here to be set off, namely, 10 H, 9 B, 8 C, 11 G, 12 N, &amp;c. without any more relation to the Radius P R, without any more relation (I say) than what was formerly done upon the work of the Sector § 5. The like may be done for halves and quarters of houres. And so these directions will be enough for pricking down the houre points this way.</p>
                      <p>Another way followeth.</p>
                   </div>
                   <div type="part">
@@ -6268,7 +6331,24 @@ difference of Longitude from 12 be 36 <hi>gr.</hi> then from 11 it must be 21 <h
                         <hi>gr.</hi> from 11, if 10, then 4, &amp;c.] That is, to the Radius R O finde the Sine of the difference of Longitude, and set it from R to V, and then draw V X parallel to P R the line of the plains pro<g ref="char:EOLhyphen"/>per six. Then to the Radius R P finde the Co-sine of the said difference of Longitude. and set it upon V X from V to X: So shall X be the point of your own six a clock upon the proper Ellipsis; as you may see in the Figure is expres<g ref="char:EOLhyphen"/>sed.</p>
                      <p>Now through these two points I and X draw right lines parallel to the Subindical line R S.<note place="margin">If this way of finding the two points I and X, seeme not so expedite, you must remember that all the work here is done without the two forementi<g ref="char:EOLhyphen"/>oned calculated Tables.</note>
                      </p>
-                     <figure/>
+                     <p>Then knowing the Alti<g ref="char:EOLhyphen"/>tudes of your 12 and 6 hours (by this <hi>Lemma</hi>) finde the Sines of them to the Radius P R. Afterwards say, As the Radius, to the Tangent of the <note place="margin">LEMMA. How to finde the altitudes of your 12 and 6 houre points (in the Equinoctiall) above your Diall plain. As the Radius is to the Sine of the Equinoctiall altitude above the plain; so is the co-sine of the difference of longi<g ref="char:EOLhyphen"/>tude, to the sine of the alti<g ref="char:EOLhyphen"/>tude of 12. And so is the sine of the difference of lon<g ref="char:EOLhyphen"/>gitude: to the altitude of six above the plain. If you use other houres then 12 and 6, yet you must work in the same manner still, with the com<g ref="char:EOLhyphen"/>plement of the difference of longitude, and the difference of Longitude it self, and so finde two conjugate Diame<g ref="char:EOLhyphen"/>ters in the self same manner.</note>
+                        <pb n="184" facs="tcp:57111:99"/>
+                        <figure/>
+reclination of the Index; so
+these two Sines now found, to
+two other lengths. These
+lengths set upon the parallel
+lines lately drawn, each to his
+proper houre, namely from 1
+to 12, &amp; from X to 6: so have
+you found the two points of 12
+and 6 in your new distorted
+Ellipsis that is to be described.
+And drawing R 12, and R 6,
+you shall have two conjugate
+Diameters, 12 <hi>R</hi> 12, and 6 <hi>R</hi>
+6; and then the rest of the work
+will be easie.</p>
                      <p>
                         <pb n="185" facs="tcp:57111:99"/>For if you divide R 12 (both wayes) as a line of Sines (R <hi>e</hi> and R <hi>f</hi> being Sines of 15 <hi>gr.</hi> R <hi>d</hi> and R <hi>g</hi> Sines of 30 <hi>gr.</hi> &amp;c. R 12 and R 12 Sines of 90 <hi>gr.</hi>) at <hi>a, b, c, d, e, R, f, g, h, i, k</hi>; you must then draw right lines through each of those points (each one parallel to the conjugate diameter 6 R 6.) And when that is done, make R 6 a Radius, and to that Ra<g ref="char:EOLhyphen"/>dius make <hi>e</hi> 7, <hi>e</hi> 5, <hi>f</hi> 5, <hi>f</hi> 7, to be the Sine of 75 <hi>gr.</hi> or one houre under 90. Make <hi>d</hi> 8, <hi>d</hi> 4, <hi>g</hi> 4, <hi>g</hi> 8, the Sine of 60 <hi>gr.</hi> or two houres lesse than 90. So <hi>c</hi> 9, <hi>c</hi> 3, is the Sine of three houres under 90: <hi>b</hi> 10, <hi>b</hi> 2, of four houres under 90: <hi>a</hi> 11, <hi>a</hi> 1, is the Sine of five houres under 90, or of one houre. The like you may do for halves and quarters, or what other parts you desire.</p>
                      <p>Thus much likewise for this second way.</p>
@@ -6296,7 +6376,23 @@ When this is done you are to finde the Sine of the Poles ele<g ref="char:EOLhyph
                      <p>By having the difference of the Indexes Longitude (75 <hi>gr.</hi>) and the reclination of the Index (45 <hi>gr.</hi>) to finde what declination the Index must have: Or to finde the declination of the subindicall line from our Me<g ref="char:EOLhyphen"/>ridi<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>n.</p>
-                     <figure/>
+                     <p>For solution you must re<g ref="char:EOLhyphen"/>solve the Sphericall Trian<g ref="char:EOLhyphen"/>gle P Z T, wherein P Z is 38 <hi>gr.</hi> 30 <hi>min.</hi> Z T is 45 <hi>gr.</hi> Z P T is 75 <hi>gr.</hi> all these are given: by these you may finde the declination now required, (for we suppose the Index to point up into T) which is P Z T, North<g ref="char:EOLhyphen"/>east, or North-west. And
+<figure/>
+                        <floatingText xml:lang="eng" type="instruction">
+                           <body>
+                              <pb facs="tcp:57111:101"/>
+                              <head>NORTH</head>
+                              <p> 
+                                 <hi>If these two Ellipses in this position should be inconvenient, in re<g ref="char:EOLhyphen"/>gard the two Indexes may possibly interfeer, you may change their places, and then the two Indexes will look one from the other. And then also the Horizontall Diall will best stand on this side of them; for they will lie most open on this side, thus:</hi>
+                                 <figure/>
+Instead of this Horizontal Diall you may place the Circular Dial, <hi>pag.</hi> 120.</p>
+                           </body>
+                        </floatingText>
+                        <pb n="190" facs="tcp:57111:102"/>
+in this case P Z T will be 60 <hi>gr.</hi> 5 <hi>min.</hi> P T will be 39 <hi>gr.</hi>
+23 <hi>min.</hi> So that the Latitude of the Index will be 50 <hi>gr.</hi>
+37 <hi>min.</hi>
+                     </p>
                      <p>When this work is done;</p>
                      <p>Draw A R B for the Meridian line of North and South, and 6 R 6 for the line of East and West, crossing each o<g ref="char:EOLhyphen"/>ther at R, which must be the center of the Diall, and draw the Subindicall line R S 60 <hi>gr.</hi> 5 <hi>min.</hi> from A R upon the right Coast, that is, North-east in the first plain, and North-west in the other plain.</p>
                      <p>Then making 6 R for Radius, finde thereto the Sine of the Latitude of the place 51 <hi>gr.</hi> 30 <hi>min.</hi> which let be the line R C, and set it upon the North part of the Meridian line A B (I call it the Meridian line because it is the said line upon the Horizontal plain whereupon these descriptions are now made) from the center R to C. Then from the point C, draw C D parallel, and the same way with R S the Subindi<g ref="char:EOLhyphen"/>call line. So shall C be the point of 12 upon the primary Ellipsis which should be drawn, if an Ellipticall Diall were to be made upon the Horizontall plain to the upright Index, which is the proper Zenith line of the Horizontall plain.</p>
@@ -6414,7 +6510,12 @@ The Co-sines of these will limit out the points (upon the houres of the Horizont
                      </p>
                      <p n="4">4. From each point there set down, draw lines paral<g ref="char:EOLhyphen"/>lel to the Subindicall line R S, as O A, 8 C, 9 B, <hi>&amp;c.</hi> the angle O R S must be 60 <hi>gr.</hi> 5 <hi>min.</hi>
                      </p>
-                     <figure/>
+                     <p n="5">5. Upon these lines, and from the foresaid Ellipticall points (Northward fro<g ref="char:cmbAbbrStroke">̄</g> the sixes towards the North, Southward from the hours on the South side of the two sixes) set on the respective 7<hi rend="sup">th</hi> terms: the first upon the line drawn from the point of 12, from O to A: the second (proceeding from 75 in the former work) set from 11 and 1, to D and E: the third of
+<pb n="197" facs="tcp:57111:106"/>
+those 7<hi rend="sup">th</hi> terms (proceeding from 60 in the former work) set from 10 and 2, to F and G, And so all the rest in their orders. Those from the two sixes toward 12 at Noon, must be set Northward from the points 9, 10, 11, 12, &amp;c. And those from the two sixes towards 12 at night (which in the
+<figure/>
+                        <pb n="198" facs="tcp:57111:107"/>
+Diall stands toward the South) must be set Southwards, in this example where the reclination of the Index is toward the North: But if the reclination had been towards the South, it should then be quite contrary.</p>
                      <p n="6">6. Through these new points B F D A E G, &amp;c. you are to draw a new Ellipsis, which will be distorted from the former Ellipsis first drawn.</p>
                      <p>Thus the Diall it selfe for the houre points is limited, you may adde halves and quarters.</p>
                   </div>
